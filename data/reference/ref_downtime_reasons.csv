@@ -1,0 +1,12 @@
+REASON_CODE,DESCRIPTION,CATEGORY,LOSS_GROUP
+DT100,Product Changeover,PLANNED,Changeover
+DT110,Allergen Cleanout,PLANNED,Sanitation
+DT200,Mechanical Breakdown,UNPLANNED,Equipment
+DT210,Electrical / Controls Fault,UNPLANNED,Equipment
+DT300,Raw Material Shortage,UNPLANNED,Supply
+DT310,Packaging Shortage,UNPLANNED,Supply
+DT400,Quality Hold,UNPLANNED,Quality
+DT500,Minor Stoppages,UNPLANNED,Equipment
+DT600,Planned Maintenance,PLANNED,Maintenance
+DT700,Scheduled Sanitation,PLANNED,Sanitation
+DT999,Unclassified,UNPLANNED,Unclassified

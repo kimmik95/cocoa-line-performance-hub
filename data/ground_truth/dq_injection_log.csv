@@ -1,0 +1,7 @@
+TABLE,ISSUE,PLANT,ROWS_AFFECTED
+AFRU,Duplicate confirmation postings,all plants,55
+AFRU,BUDAT later than ISDD (late posting),1030,214
+AFRU,Negative scrap quantity,all plants,18
+MSEG,Quantities posted in KG instead of LB (Jan-Feb 2026),1020,2166
+LABOR,Missing timekeeping rows (outage 2025-06-09 to 2025-06-22),1020,54
+DOWNTIME,Operator left reason blank -> DT999 Unclassified,all plants,989
